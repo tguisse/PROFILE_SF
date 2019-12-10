@@ -1,6 +1,6 @@
 function clicked() {
 
-/* set variables */
+/* set variables 
 
 	var user = document.getElementById('username'); 
 	var pass = document.getElementById('password');
@@ -12,7 +12,7 @@ function clicked() {
 	
 	if(user.value == "admin" && pass.value == "pass") {
 		
-			window.alert("Welcome, Please close this tab to access my Resume");
+			window.alert("Welcome, Please close this tab to access my Resume"); */
 			window.open("https://github.com/tguisse/tguisse.github.io/blob/master/Public%20Resume_Tidiani%20Guisse.pdf");
 
 		}  
